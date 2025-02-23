@@ -6,17 +6,99 @@ This document is used to collect information about prominent professors in the f
 
 ## QS世界大学排名前50名院校 / QS World Top 50 Universities
 
-| 教授姓名<br>Professor Name | 所属机构<br>Institution | 职称<br>Position | 研究方向<br>Research Areas | 个人主页<br>Homepage | 代表作品<br>Key Publications | Google Scholar | 招生偏好<br>Student Preferences | 联系方式<br>Contact Info |
-|--------------------------|------------------------|------------------|--------------------------|--------------------|-----------------------------|----------------|--------------------------------|----------------------|
-|                          |                        |                  |                          |                    |                             |                |                                |                      |
+| QS排名<br>QS Rank | 教授姓名<br>Professor Name | 所属机构<br>Institution | 研究方向<br>Research Areas | 个人主页<br>Homepage |
+|------------------|--------------------------|------------------------|--------------------------|-------------------|
+| 1 |  | Massachusetts Institute of Technology (MIT) |  |  |
+| 2 |  | Carnegie Mellon University |  |  |
+| 2 |  | Stanford University |  |  |
+| 4 |  | University of Oxford |  |  |
+| 5 |  | University of California, Berkeley (UCB) |  |  |
+| 6 |  | National University of Singapore (NUS) |  |  |
+| 7 |  | Harvard University |  |  |
+| 8 |  | University of Cambridge |  |  |
+| 9 |  | ETH Zurich - Swiss Federal Institute of Technology |  |  |
+| 9 |  | Nanyang Technological University, Singapore (NTU) |  |  |
+| 11 |  | EPFL |  |  |
+| 11 |  | Tsinghua University |  |  |
+| 13 |  | University of Toronto |  |  |
+| 14 |  | Princeton University |  |  |
+| 15 |  | Peking University |  |  |
+| 16 |  | Imperial College London |  |  |
+| 17 |  | Cornell University |  |  |
+| 18 |  | University of Washington |  |  |
+| 19 |  | University of California, Los Angeles (UCLA) |  |  |
+| 20 |  | The University of Edinburgh |  |  |
+| 21 |  | University of Waterloo |  |  |
+| 22 |  | UCL |  |  |
+| 23 |  | Columbia University |  |  |
+| 23 |  | New York University (NYU) |  |  |
+| 25 |  | University of Illinois at Urbana-Champaign |  |  |
+| 26 |  | University of British Columbia |  |  |
+| 27 |  | Shanghai Jiao Tong University |  |  |
+| 28 |  | Georgia Institute of Technology |  |  |
+| 29 |  | Zhejiang University |  |  |
+| 30 |  | University of Texas at Austin |  |  |
+| 31 |  | Technical University of Munich |  |  |
+| 32 |  | The Hong Kong University of Science and Technology |  |  |
+| 33 |  | Yale University |  |  |
+| 34 |  | McGill University |  |  |
+| 35 |  | The Chinese University of Hong Kong (CUHK) |  |  |
+| 36 |  | Institut Polytechnique de Paris |  |  |
+| 36 |  | University of Amsterdam |  |  |
+| 38 |  | The University of Tokyo |  |  |
+| 38 |  | University of Pennsylvania |  |  |
+| 40 |  | Fudan University |  |  |
+| 41 |  | California Institute of Technology (Caltech) |  |  |
+| 41 |  | University of Michigan-Ann Arbor |  |  |
+| 43 |  | The University of Sydney |  |  |
+| 44 |  | Delft University of Technology |  |  |
+| 44 |  | The University of Melbourne |  |  |
+| 44 |  | Université Paris-Saclay |  |  |
+| 44 |  | Université de Montréal |  |  |
+| 48 |  | Politecnico di Milano |  |  |
+| 49 |  | University of Maryland, College Park |  |  |
+| 50 |  | KAIST - Korea Advanced Institute of Science & Technology |  |  |
+| 51 |  | The University of Hong Kong |  |  |
 
-## 填写说明 / Filling Instructions
-1. 教授姓名 / Professor Name：填写教授的全名 / Enter the full name of the professor
-2. 所属机构 / Institution：填写教授当前就职的大学和院系 / Enter current university and department
-3. 职称 / Position：填写当前职称（如助理教授、副教授、教授等）/ Current position (e.g., Assistant Professor, Associate Professor, Professor)
-4. 研究方向 / Research Areas：列出主要研究领域和兴趣方向 / List main research areas and interests
-5. 个人主页 / Homepage：填写教授的个人或实验室网页 / Provide personal or lab website
-6. 代表作品 / Key Publications：列出最具影响力的论文或项目 / List most influential papers or projects
-7. Google Scholar：填写 Google Scholar 主页链接 / Provide Google Scholar profile link
-8. 招生偏好 / Student Preferences：说明招生要求和偏好（如是否接受联培、访问学者等）/ Specify recruitment requirements and preferences
-9. 联系方式 / Contact Info：填写工作邮箱或其他联系方式 / Provide work email or other contact information 
+## 北美高校 / North American Universities
+
+| 序号<br>No. | 教授姓名<br>Professor Name | 所属机构<br>Institution | 研究方向<br>Research Areas | 个人主页<br>Homepage |
+|------------|--------------------------|------------------------|--------------------------|-------------------|
+| 1 |  | Massachusetts Institute of Technology (MIT) |  |  |
+| 2 |  | Carnegie Mellon University |  |  |
+| 3 |  | University of California, Berkeley (UCB) |  |  |
+| 4 |  | Harvard University |  |  |
+| 5 |  | University of Toronto |  |  |
+| 6 |  | University of Washington |  |  |
+| 7 |  | Georgia Institute of Technology |  |  |
+| 8 |  | University of Illinois at Urbana-Champaign |  |  |
+| 9 |  | Princeton University |  |  |
+| 10 |  | Cornell University |  |  |
+
+## 中国高校 / China Universities
+
+| 序号<br>Rank | 教授姓名<br>Professor Name | 所属机构<br>Institution | 研究方向<br>Research Areas | 个人主页<br>Homepage |
+|-------------|--------------------------|------------------------|--------------------------|-------------------|
+| 1 |  | 清华大学<br>Tsinghua University |  |  |
+| 2 |  | 北京大学<br>Peking University |  |  |
+| 3 |  | 上海交通大学<br>Shanghai Jiao Tong University |  |  |
+| 4 |  | 浙江大学<br>Zhejiang University |  |  |
+| 5 |  | 西北工业大学<br>Northwestern Polytechnical University |  |  |
+| 6 |  | 北京航空航天大学<br>Beihang University |  |  |
+| 7 |  | 华中科技大学<br>Huazhong University of Science and Technology |  |  |
+| 8 |  | 哈尔滨工业大学<br>Harbin Institute of Technology |  |  |
+| 10 |  | 中国科学技术大学<br>University of Science and Technology of China |  |  |
+| 11 |  | 南京大学<br>Nanjing University |  |  |
+
+## 说明 / Instructions
+1. 教授信息需要定期更新 / Professor information should be updated regularly
+2. 所有信息应准确可靠 / All information should be accurate and reliable
+3. 请按照以下格式填写 / Please fill in the following format:
+   - 教授姓名 / Professor Name：填写教授的全名 / Enter the full name of the professor
+   - 所属机构 / Institution：填写教授当前就职的大学和院系 / Enter current university and department 
+   - 研究方向 / Research Areas：列出主要研究领域和兴趣方向 / List main research areas and interests
+   - 个人主页 / Homepage：填写教授的个人或实验室网页 / Provide personal or lab website
+4. 其他补充信息可选填 / Other supplementary information is optional:
+   - 代表作品 / Key Publications  
+   - Google Scholar主页 / Google Scholar profile
+   - 联系方式 / Contact information
