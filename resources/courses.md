@@ -10,7 +10,7 @@ This document is used to collect information about computer vision courses offer
 |------------------|------------------------|----------------------|----------------------|--------------------------|-----------------|
 | 1 |  | Massachusetts Institute of Technology (MIT) |  |  |  |
 | 2 |  | Carnegie Mellon University |  |  |  |
-| 2 |  | Stanford University |  |  |  |
+| 2 |CS231n: CNN for Visual Recognition  | Stanford University |Fei-Fei Li  |https://csdiy.wiki/en/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/CS231/  |  |
 | 4 |  | University of Oxford |  |  |  |
 | 5 |  | University of California, Berkeley (UCB) |  |  |  |
 | 6 |  | National University of Singapore (NUS) |  |  |  |
